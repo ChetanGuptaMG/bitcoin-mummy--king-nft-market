@@ -40,7 +40,8 @@ npm start
 - Create an account and sign in
 - Create a new NFT listing by providing image and metadata
 - Browse listings and purchase other user's NFTs using cryptocurrency
-## Screenshots ![1](https://user-images.githubusercontent.com/91548901/214609273-3dffd86c-dcdf-4872-b6c4-4239f8d6c2dc.png)
+## Screenshots 
+![1](https://user-images.githubusercontent.com/91548901/214609273-3dffd86c-dcdf-4872-b6c4-4239f8d6c2dc.png)
 ![2](https://user-images.githubusercontent.com/91548901/214609290-4b7fc774-6085-4867-b2de-531d9bf1a125.png)
 ![3](https://user-images.githubusercontent.com/91548901/214609307-5d07dacc-186a-46f3-9bcb-cb3d2494d22a.png)
 ![4](https://user-images.githubusercontent.com/91548901/214609312-a0e64807-95c1-467a-879c-469cd3d768c3.png)
