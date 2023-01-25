@@ -20,7 +20,7 @@ const sampleData = [
         "name": "NFT #3",
         "description": " NFT2",
         "website":"http://axieinfinity.io",
-        "image":" ",
+        "image":"https://gateway.pinata.cloud/ipfs/QmTxdgmsvbZZPsU5NAJUF3MUybvGPxZnQxiQ3TCfowrNyY",
         "price":"0.03ETH",
         "currentlySelling":"True",
         "address":"0xe81Bf5A757C4f7F82a2F23b1e59bE45c33c5b13",
